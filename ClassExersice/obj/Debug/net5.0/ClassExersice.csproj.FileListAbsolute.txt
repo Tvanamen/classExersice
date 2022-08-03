@@ -1,0 +1,16 @@
+C:\Users\vanam\Documents\repos\ClassExersice\ClassExersice\bin\Debug\net5.0\ClassExersice.exe
+C:\Users\vanam\Documents\repos\ClassExersice\ClassExersice\bin\Debug\net5.0\ClassExersice.deps.json
+C:\Users\vanam\Documents\repos\ClassExersice\ClassExersice\bin\Debug\net5.0\ClassExersice.runtimeconfig.json
+C:\Users\vanam\Documents\repos\ClassExersice\ClassExersice\bin\Debug\net5.0\ClassExersice.runtimeconfig.dev.json
+C:\Users\vanam\Documents\repos\ClassExersice\ClassExersice\bin\Debug\net5.0\ClassExersice.dll
+C:\Users\vanam\Documents\repos\ClassExersice\ClassExersice\bin\Debug\net5.0\ClassExersice.pdb
+C:\Users\vanam\Documents\repos\ClassExersice\ClassExersice\obj\Debug\net5.0\ClassExersice.csproj.AssemblyReference.cache
+C:\Users\vanam\Documents\repos\ClassExersice\ClassExersice\obj\Debug\net5.0\ClassExersice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanam\Documents\repos\ClassExersice\ClassExersice\obj\Debug\net5.0\ClassExersice.AssemblyInfoInputs.cache
+C:\Users\vanam\Documents\repos\ClassExersice\ClassExersice\obj\Debug\net5.0\ClassExersice.AssemblyInfo.cs
+C:\Users\vanam\Documents\repos\ClassExersice\ClassExersice\obj\Debug\net5.0\ClassExersice.csproj.CoreCompileInputs.cache
+C:\Users\vanam\Documents\repos\ClassExersice\ClassExersice\obj\Debug\net5.0\ClassExersice.dll
+C:\Users\vanam\Documents\repos\ClassExersice\ClassExersice\obj\Debug\net5.0\refint\ClassExersice.dll
+C:\Users\vanam\Documents\repos\ClassExersice\ClassExersice\obj\Debug\net5.0\ClassExersice.pdb
+C:\Users\vanam\Documents\repos\ClassExersice\ClassExersice\obj\Debug\net5.0\ClassExersice.genruntimeconfig.cache
+C:\Users\vanam\Documents\repos\ClassExersice\ClassExersice\obj\Debug\net5.0\ref\ClassExersice.dll
